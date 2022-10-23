@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "kaboom": "^2000.2.9"
+  },
+  "devDependencies": {
+    "file-loader": "^6.2.0"
+  }
+}
